@@ -1,0 +1,232 @@
+Years,Precinct,Occurrences,Area
+2019,1,1,WTC/Soho/Wall Street
+2019,5,3,Chinatown/Little Italy
+2019,6,3,Greenwich/West Village
+2019,7,0,Williamsburg Bridge
+2019,9,3,East Village
+2019,10,2,Chelsea/Hudson Yards
+2019,13,3,Stuy Town/Gramercy Park/Flatiron
+2019,14,1,Midtown South/W34th
+2019,17,2,Murray Hill/Turtle Bay
+2019,18,6,Midtown South
+2019,19,0,Lenox Hill/Yorkville
+2019,20,0,Upper West Side/Lincoln Center
+2019,22,0,Central Park
+2019,23,0,East Harlem
+2019,24,0,Manhattan Valley
+2019,25,5,Marcus Garvey Park
+2019,26,0,Morningside Heights/Columbia University
+2019,28,2,Central Harlem
+2019,30,1,Hamilton Heights
+2019,32,2,Northeastern Harlem
+2019,33,2,Washington Heights
+2019,34,1,Washington Heights/Inwood
+2019,40,1,Port Morris/Mott Haven
+2019,41,0,Hunts Point/Longwood
+2019,42,3,Morrisania
+2019,43,2,Southeast Bronx
+2019,44,0,Grand Concourse/Yankee Stadium
+2019,45,0,Co-op City/City Island
+2019,46,0,Fordham/University Heights
+2019,47,1,Woodlawn/Wakefield/Baychester
+2019,48,3,Belmont/East Tremont/West Farms
+2019,49,1,Allerton/Morris Park/Van Nest
+2019,50,0,Riverdale/Fieldston/Kingbridge
+2019,52,0,Bedford Park/Norwood/Bronx Park
+2019,60,1,Coney Island/Brighton Beach/Sea Gate
+2019,61,6,Kings Bay/Gravesend/Sheepshead
+2019,62,1,Bensonhurst/Mapleton
+2019,63,1,Marine Park
+2019,66,6,Midwood/Kensington
+2019,67,2,East Flatbush/Remsen Village
+2019,68,1,Bay Ridge/Dyker Heights
+2019,69,0,Avenue L/Rockaway Parkway
+2019,70,3,Midwood/Fiske Terrace/Ditmas Park
+2019,71,10,Crown Heights
+2019,72,0,Sunset Park
+2019,73,0,Brownsville
+2019,75,6,Cypress Hills
+2019,76,3,Carroll Gardens/Red Hook
+2019,77,1,Prospect Heights
+2019,78,0,Prospect Park
+2019,79,3,Bedford Stuyvesant
+2019,81,4,Stuyvesant Heights
+2019,83,0,Bushwick
+2019,84,3,Brooklyn Heights
+2019,88,2,Clinton Hill/Fort Green Park
+2019,90,2,Williamsburg/East Williamsburg
+2019,94,9,Greenpoint
+2019,100,0,Rockaway Peninsula/Park/Beach
+2019,101,3,Far Rockaway/Bayswater
+2019,102,1,Kew Gardens/Richmond Hill
+2019,103,1,Jamaica Business District
+2019,104,0,Ridgewood/Glendale
+2019,105,0,Queens Village/Cambria Heights
+2019,106,2,Ozone Park/Lindenwood
+2019,107,2,Fresh Meadows/Cunningham Heights
+2019,108,0,Long Island City/Sunnyside/Woodside
+2019,109,0,Downtown Flushing/East Flushing
+2019,110,4,Corona/Elmhurst
+2019,111,0,Bayside/Douglaston
+2019,112,4,Forest Hills/Rego Park
+2019,113,1,Jamaica/St. Albans/Hollis
+2019,114,1,Astoria/Woodside
+2019,115,2,Jackson Heights/East Elmhurst
+2019,120,0,North Shore
+2019,121,0,Willowbrook/Westerleigh
+2019,122,0,Eltingville/Great Kills
+2019,123,0,Tottenville/Huguenot
+2020,1,0,WTC/Soho/Wall Street
+2020,5,2,Chinatown/Little Italy
+2020,6,2,Greenwich/West Village
+2020,7,5,Williamsburg Bridge
+2020,9,1,East Village
+2020,10,3,Chelsea/Hudson Yards
+2020,13,1,Stuy Town/Gramercy Park/Flatiron
+2020,14,0,Midtown South/W34th
+2020,17,0,Murray Hill/Turtle Bay
+2020,18,2,Midtown South
+2020,19,1,Lenox Hill/Yorkville
+2020,20,0,Upper West Side/Lincoln Center
+2020,22,0,Central Park
+2020,23,3,East Harlem
+2020,24,0,Manhattan Valley
+2020,25,0,Marcus Garvey Park
+2020,26,0,Morningside Heights/Columbia University
+2020,28,1,Central Harlem
+2020,30,1,Hamilton Heights
+2020,32,1,Northeastern Harlem
+2020,33,0,Washington Heights
+2020,34,0,Washington Heights/Inwood
+2020,40,3,Port Morris/Mott Haven
+2020,41,0,Hunts Point/Longwood
+2020,42,0,Morrisania
+2020,43,0,Southeast Bronx
+2020,44,4,Grand Concourse/Yankee Stadium
+2020,45,0,Co-op City/City Island
+2020,46,1,Fordham/University Heights
+2020,47,0,Woodlawn/Wakefield/Baychester
+2020,48,1,Belmont/East Tremont/West Farms
+2020,49,2,Allerton/Morris Park/Van Nest
+2020,50,0,Riverdale/Fieldston/Kingbridge
+2020,52,0,Bedford Park/Norwood/Bronx Park
+2020,60,6,Coney Island/Brighton Beach/Sea Gate
+2020,61,5,Kings Bay/Gravesend/Sheepshead
+2020,62,0,Bensonhurst/Mapleton
+2020,63,0,Marine Park
+2020,66,2,Midwood/Kensington
+2020,67,1,East Flatbush/Remsen Village
+2020,68,0,Bay Ridge/Dyker Heights
+2020,69,0,Avenue L/Rockaway Parkway
+2020,70,2,Midwood/Fiske Terrace/Ditmas Park
+2020,71,1,Crown Heights
+2020,72,1,Sunset Park
+2020,73,0,Brownsville
+2020,75,1,Cypress Hills
+2020,76,0,Carroll Gardens/Red Hook
+2020,77,0,Prospect Heights
+2020,78,1,Prospect Park
+2020,79,1,Bedford Stuyvesant
+2020,81,2,Stuyvesant Heights
+2020,83,0,Bushwick
+2020,84,4,Brooklyn Heights
+2020,88,1,Clinton Hill/Fort Green Park
+2020,90,5,Williamsburg/East Williamsburg
+2020,94,1,Greenpoint
+2020,100,4,Rockaway Peninsula/Park/Beach
+2020,101,2,Far Rockaway/Bayswater
+2020,102,4,Kew Gardens/Richmond Hill
+2020,103,0,Jamaica Business District
+2020,104,0,Ridgewood/Glendale
+2020,105,0,Queens Village/Cambria Heights
+2020,106,0,Ozone Park/Lindenwood
+2020,107,1,Fresh Meadows/Cunningham Heights
+2020,108,0,Long Island City/Sunnyside/Woodside
+2020,109,0,Downtown Flushing/East Flushing
+2020,110,1,Corona/Elmhurst
+2020,111,1,Bayside/Douglaston
+2020,112,4,Forest Hills/Rego Park
+2020,113,0,Jamaica/St. Albans/Hollis
+2020,114,2,Astoria/Woodside
+2020,115,1,Jackson Heights/East Elmhurst
+2020,120,5,North Shore
+2020,121,0,Willowbrook/Westerleigh
+2020,122,0,Eltingville/Great Kills
+2020,123,0,Tottenville/Huguenot
+2021,1,2,WTC/Soho/Wall Street
+2021,5,5,Chinatown/Little Italy
+2021,6,1,Greenwich/West Village
+2021,7,27,Williamsburg Bridge
+2021,9,2,East Village
+2021,10,1,Chelsea/Hudson Yards
+2021,13,6,Stuy Town/Gramercy Park/Flatiron
+2021,14,10,Midtown South/W34th
+2021,17,0,Murray Hill/Turtle Bay
+2021,18,1,Midtown South
+2021,19,4,Lenox Hill/Yorkville
+2021,20,0,Upper West Side/Lincoln Center
+2021,22,1,Central Park
+2021,23,0,East Harlem
+2021,24,3,Manhattan Valley
+2021,25,5,Marcus Garvey Park
+2021,26,3,Morningside Heights/Columbia University
+2021,28,0,Central Harlem
+2021,30,1,Hamilton Heights
+2021,32,2,Northeastern Harlem
+2021,33,0,Washington Heights
+2021,34,0,Washington Heights/Inwood
+2021,40,1,Port Morris/Mott Haven
+2021,41,0,Hunts Point/Longwood
+2021,42,1,Morrisania
+2021,43,0,Southeast Bronx
+2021,44,0,Grand Concourse/Yankee Stadium
+2021,45,0,Co-op City/City Island
+2021,46,0,Fordham/University Heights
+2021,47,1,Woodlawn/Wakefield/Baychester
+2021,48,0,Belmont/East Tremont/West Farms
+2021,49,0,Allerton/Morris Park/Van Nest
+2021,50,13,Riverdale/Fieldston/Kingbridge
+2021,52,1,Bedford Park/Norwood/Bronx Park
+2021,60,1,Coney Island/Brighton Beach/Sea Gate
+2021,61,2,Kings Bay/Gravesend/Sheepshead
+2021,62,5,Bensonhurst/Mapleton
+2021,63,0,Marine Park
+2021,66,10,Midwood/Kensington
+2021,67,0,East Flatbush/Remsen Village
+2021,68,1,Bay Ridge/Dyker Heights
+2021,69,0,Avenue L/Rockaway Parkway
+2021,70,1,Midwood/Fiske Terrace/Ditmas Park
+2021,71,2,Crown Heights
+2021,72,3,Sunset Park
+2021,73,0,Brownsville
+2021,75,1,Cypress Hills
+2021,76,1,Carroll Gardens/Red Hook
+2021,77,1,Prospect Heights
+2021,78,1,Prospect Park
+2021,79,2,Bedford Stuyvesant
+2021,81,1,Stuyvesant Heights
+2021,83,2,Bushwick
+2021,84,2,Brooklyn Heights
+2021,88,0,Clinton Hill/Fort Green Park
+2021,90,9,Williamsburg/East Williamsburg
+2021,94,0,Greenpoint
+2021,100,1,Rockaway Peninsula/Park/Beach
+2021,101,0,Far Rockaway/Bayswater
+2021,102,5,Kew Gardens/Richmond Hill
+2021,103,5,Jamaica Business District
+2021,104,1,Ridgewood/Glendale
+2021,105,0,Queens Village/Cambria Heights
+2021,106,0,Ozone Park/Lindenwood
+2021,107,6,Fresh Meadows/Cunningham Heights
+2021,108,0,Long Island City/Sunnyside/Woodside
+2021,109,4,Downtown Flushing/East Flushing
+2021,110,6,Corona/Elmhurst
+2021,111,0,Bayside/Douglaston
+2021,112,3,Forest Hills/Rego Park
+2021,113,0,Jamaica/St. Albans/Hollis
+2021,114,2,Astoria/Woodside
+2021,115,3,Jackson Heights/East Elmhurst
+2021,120,9,North Shore
+2021,121,0,Willowbrook/Westerleigh
+2021,122,3,Eltingville/Great Kills
+2021,123,1,Tottenville/Huguenot
