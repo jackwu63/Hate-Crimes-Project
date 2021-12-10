@@ -1,4 +1,6 @@
 """
+Name: Jack Wu
+Email: Jack.Wu55@myhunter.cuny.edu
 Title: Hate Crimes in NYC
 URL: https://jackwu63.github.io/cs-39542/
 Resources: https://crime-data-explorer.fr.cloud.gov/pages/explorer/crime/hate-crime 
