@@ -13,9 +13,11 @@ import plotly.io as pio
 pio.renderers.default = 'browser' #opens the map in default browser
 
 precinctMap = json.load(open("Police Precincts.geojson", 'r')) #loads the Police Precinc.geojson depicting the areas for each police precinct
+
 df1 = pd.read_csv('HC-2019.csv') #reads Hate Crimes Arrests of 2019
 df2 = pd.read_csv('HC-2020.csv') #reads Hate Crimes Arrests of 2020
 df3 = pd.read_csv('HC-2021.csv') #reads Hate Crimes Arrests of Quarter 1,2, and 3 of 2021
+
 precinct_id_map = {} 
 for feature in precinctMap['features']: #for loop to map the ID of precincts to precincts
     feature['id'] = feature['properties']['precinct']
